@@ -1,0 +1,3 @@
+﻿  Exercise2_Task2b.cpp
+C:\Users\vevit\source\repos\Exercise2_Task2b\Exercise2_Task2b.cpp(14,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Exercise2_Task2b.vcxproj -> C:\Users\vevit\source\repos\Exercise2_Task2b\x64\Debug\Exercise2_Task2b.exe

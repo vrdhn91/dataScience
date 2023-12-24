@@ -1,0 +1,2 @@
+﻿Exercise1_Task2.obj : error LNK2005: main already defined in Exercise1_Task1.obj
+C:\Users\vevit\source\repos\Exercise1_Task1\x64\Debug\Exercise1.exe : fatal error LNK1169: one or more multiply defined symbols found

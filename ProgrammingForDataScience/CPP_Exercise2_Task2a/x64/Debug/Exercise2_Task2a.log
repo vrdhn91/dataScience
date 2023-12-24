@@ -1,0 +1,4 @@
+﻿  Exercise2_Task2a.cpp
+C:\Users\vevit\source\repos\Exercise2_Task2a\Exercise2_Task2a.cpp(53): warning C4172: returning address of local variable or temporary: b
+C:\Users\vevit\source\repos\Exercise2_Task2a\Exercise2_Task2a.cpp(70): warning C4172: returning address of local variable or temporary: d
+  Exercise2_Task2a.vcxproj -> C:\Users\vevit\source\repos\Exercise2_Task2a\x64\Debug\Exercise2_Task2a.exe
